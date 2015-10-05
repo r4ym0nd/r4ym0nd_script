@@ -14,8 +14,8 @@ while (token):
     banner += "|| |_|     |_|  \__, |_| |_| |_|\___/|_| |_|\__,_|||\n"
     banner += "||               __/ |                            ||\n"
     banner += "||              |___/                             ||\n"  
-    banner += "||   My facebook: www.facebook.com/r4ym0nd        ||\n"
-    banner += "||   My youtube channel: www.youtube.com/r4ym0nd  ||\n"
+    banner += "||   My facebook: www.facebook.com/               ||\n"
+    banner += "||   My youtube channel: www.youtube.com/         ||\n"
     banner += "||____________r4ym0nd_Script_v0.1_beta____________||\n"
     print banner
     

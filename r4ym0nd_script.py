@@ -104,7 +104,7 @@ deb-src http://security.kali.org/kali-security sana/updates main contrib non-fre
         print 'this section is under construction\n'
         input()
         return 0
-
+#===================terminal_main_script==========================
     option = input()
     if option == 1:
         r = config_kali_networking()    
